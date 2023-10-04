@@ -1,0 +1,46 @@
+body{
+    background-color: pink;
+}
+h4{
+    color: yellow;
+}
+h2.header{
+    color: hotpink;
+}
+.header{
+    font-size: 50px;
+}
+p{
+    font-size: 20px;
+    color:antiquewhite;
+}
+.paragraf{
+    font-size: 20px;
+}
+p strong{
+    color:blue;
+}
+
+p strong.bold{
+    color:white;
+}
+
+.uppercase{
+    /* text-transform: uppercase; */
+    text-transform: capitalize;
+    text-shadow: 2px 2px 5px red;
+    color: white;
+}
+
+.lowercase{
+    text-transform: lowercase;
+}
+
+ul li{
+    color: white;
+    font-size: 30px;
+}
+
+ul h5{
+    font-size: 30px;
+}
